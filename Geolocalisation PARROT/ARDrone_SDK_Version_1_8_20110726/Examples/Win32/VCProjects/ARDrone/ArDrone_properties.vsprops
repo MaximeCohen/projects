@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="ArDrone_properties"
+	>
+	<UserMacro
+		Name="ARDroneLibDir"
+		Value="E:\Terminale_STI2D_SIN\Projet_BAC\ARDrone_SDK_Version_1_8_20110726\ARDroneLib"
+		PerformEnvironmentSet="true"
+	/>
+	<UserMacro
+		Name="Win32ClientDir"
+		Value="E:\Terminale_STI2D_SIN\Projet_BAC\ARDrone_SDK_Version_1_8_20110726\Examples\Win32\sdk_demo\Sources"
+	/>
+</VisualStudioPropertySheet>

@@ -1,0 +1,1155 @@
+<zuiprezi>
+  <version>8</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-83983.41716924902" y="-47209.613201648855" width="167966.83433849804" height="94419.22640329771"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>fr</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="15_24309637" type="button" x="0" y="0" r="0" s="171.3597575377454" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>980.9651103592888</w>
+        <h>551.7928745771</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="72_24309637" type="shape" x="20770.7430069269" y="-28833.393128533455" r="180" s="110.2431677461981" class="line3">
+      <geom type="line">
+        <sp>-164.46832673694863 0</sp>
+        <ep>164.4683267369486 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="73_24309637" type="shape" x="2641.5527603998808" y="-20691.146177768733" r="90.01030802143627" s="110.24316774619807" class="line3">
+      <geom type="line">
+        <sp>-73.85293850474862 0</sp>
+        <ep>73.85293850474864 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="74_24309637" type="shape" x="27357.796591479728" y="-12549.01521308706" r="179.99421771224232" s="110.24316774619824" class="line3">
+      <geom type="line">
+        <sp>-224.21587461844092 0</sp>
+        <ep>224.21587461844092 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="75_24309637" type="shape" x="52076.064742525086" y="-5340.922877074894" r="90.00000000000001" s="110.24316774619815" class="line3">
+      <geom type="line">
+        <sp>-65.40620203553796 0</sp>
+        <ep>65.40620203553796 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="76_24309637" type="shape" x="33513.29073950744" y="1870.3650321397204" r="-180" s="110.24316774619815" class="line3">
+      <geom type="line">
+        <sp>-168.36747006982463 0</sp>
+        <ep>168.3674700698246 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="77_24309637" type="shape" x="24472.23555879779" y="16609.310553408322" r="-180" s="110.2431677461982" class="line3">
+      <geom type="line">
+        <sp>-86.35735220452665 0</sp>
+        <ep>86.35735220452665 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="78_24309637" type="shape" x="14952.47771027757" y="9241.841934206735" r="90.00368145080805" s="110.2431677461983" class="line3">
+      <geom type="line">
+        <sp>-66.83828928962082 0</sp>
+        <ep>66.83828928962083 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="80_24309637" type="button" x="48635.52054840942" y="-28835.147219205955" r="0" s="19.132681338605178" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1057.8034682080925</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="84_24309637" type="button" x="24015.4" y="16023.2" r="0" s="7.566555275040174" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="85_24309637" type="button" x="34060.574204403514" y="29437.79318202416" r="0" s="15.867138398959728" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.2079002079001</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="87_24309637" type="text" x="34121.91443841726" y="26799.959512061552" r="0" s="29.817874538174536" class="body">
+      <height>29.16</height>
+      <width>203.16</width>
+      <p align="center">
+        <text><![CDATA[INTRODUCTION]]></text>
+      </p>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="88_24309637" type="shape" x="33995.94260617294" y="20717.24927238927" r="89.99999999999994" s="110.24316774619815" class="line3">
+      <geom type="line">
+        <sp>37.2362989940309 0</sp>
+        <ep>-37.2362989940309 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="90_24309637" type="shape" x="-20329.617711926716" y="29482.471351415767" r="1.171288644231728e-14" s="110.24316774619828" class="line3">
+      <geom type="arrow">
+        <sp>-443.08361261506207 0</sp>
+        <ep>443.08361261506207 0</ep>
+        <t>7</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="92_24309637" type="text" x="23980.06350974857" y="14367.858142456244" r="0" s="17.564645792464844" class="strong">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[ETAT DE L'ART]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="93_24309637" type="text" x="23904.757504795707" y="15182.418644691335" r="0" s="8.407995928042924" class="body">
+      <height>29.16</height>
+      <width>849.7299273890426</width>
+      <p>
+        <text><![CDATA[Le GPS flight recorder]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="94_24309637" type="button" x="33512.079500753935" y="1867.8842640676505" r="0" s="7.224420223124381" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="95_24309637" type="text" x="33478.34081181188" y="287.3915884544517" r="0" s="16.770429563065047" class="strong">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[MÉTHODOLOGIE]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="96_24309637" type="text" x="33542.05" y="875.7" r="0" s="8.027813662958838" class="body">
+      <height>29.16</height>
+      <width>849.7299273890426</width>
+      <p>
+        <text><![CDATA[Pour géolocaliser le drone PARROT depuis un PC, que faut-il faire ?]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="97_24309637" type="button" x="38756.81426301221" y="-12153.909481803432" r="0" s="7.224420223124381" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="98_24309637" type="text" x="38723.07557407013" y="-13734.402157416956" r="0" s="16.770429563065047" class="strong">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[RÉALISATION (1ère partie)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="100_24309637" type="button" x="8756.45092310911" y="-11556.65986290975" r="0" s="7.224420223124381" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="101_24309637" type="text" x="8722.712234167033" y="-13137.152538523103" r="0" s="16.770429563065047" class="strong">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[RÉALISATION (2ème partie)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="102_24309637" type="text" x="8766.150000000001" y="-12455.750000000002" r="0" s="8.027813662958838" class="body">
+      <height>29.16</height>
+      <width>849.7299273890426</width>
+      <p>
+        <text><![CDATA[GPS et envoie de données]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="103_24309637" type="button" x="21431.60250218586" y="-28839.744023814514" r="0" s="7.224420223124381" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="104_24309637" type="text" x="21397.86381324378" y="-30420.23669942796" r="0" s="16.770429563065047" class="strong">
+      <height>29.16</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[CONCLUSION]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="58_24309637" type="shape" x="48694.95553760043" y="29480.84719368917" r="-2.9817700138720475e-16" s="49.94536906807535" class="line5">
+      <geom type="line">
+        <sp>-181.62177324208997 0</sp>
+        <ep>181.62177324208997 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="59_24309637" type="shape" x="57765.00842684361" y="24576.9733606622" r="-90.00000000000001" s="49.94536906807535" class="line5">
+      <geom type="line">
+        <sp>-98.18038015403644 0</sp>
+        <ep>98.18038015403644 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="60_24309637" type="shape" x="63681.611607171544" y="19675.475365632217" r="-179.99111011702" s="49.94536906807534" class="line5">
+      <geom type="line">
+        <sp>-118.4515144583979 0</sp>
+        <ep>118.4515144583979 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="61_24309637" type="shape" x="69596.48062645506" y="4686.735276325901" r="89.99999999999997" s="49.94536906807534" class="line5">
+      <geom type="line">
+        <sp>-300.0595058547341 0</sp>
+        <ep>300.0595058547341 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="63_24309637" type="shape" x="63666.69679857041" y="-10296.349946158378" r="-8.905553108097847e-15" s="49.94536906807536" class="line5">
+      <geom type="line">
+        <sp>-118.4320014967452 0</sp>
+        <ep>118.4320014967452 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="69_24309637" type="shape" x="63666.76887751626" y="-10296.224409681286" r="0" s="76.18285186645281" class="poly5">
+      <geom type="poly">
+        <p x="-50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="28.999941549582445"/>
+        <p x="-50.484313717977784" y="28.999941549582445"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_24309637" type="text" x="-23374.51196466883" y="25406.574355689987" r="-8.905553108097846e-15" s="261.61667525950304" class="head">
+      <height>29.16</height>
+      <width>352.15971663132837</width>
+      <p>
+        <text><![CDATA[Géolocalisation du drone PARROT]]></text>
+      </p>
+    </object>
+    <object id="81_24309637" type="text" x="-36676.6" y="32914.783371179234" r="0" s="207.8401800562171" class="body">
+      <height>29.16</height>
+      <width>313.04239127918635</width>
+      <p>
+        <text><![CDATA[Présenté par COHEN Maxime]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="82_24309637" type="shape" x="57750.33144341773" y="-13872.361511583013" r="-90.0015811321469" s="49.94536906807541" class="line5">
+      <geom type="line">
+        <sp>-71.63214385583152 0</sp>
+        <ep>71.63214385583152 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="83_24309637" type="shape" x="57748.80186649001" y="-18419.780290922823" r="0" s="48.487194447166694" class="circle poly5">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="108_24309637" type="shape" x="69652.78157910085" y="4376.556612157106" r="0" s="76.1828518664528" class="poly5">
+      <geom type="poly">
+        <p x="-50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="28.999941549582445"/>
+        <p x="-50.484313717977784" y="28.999941549582445"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="109_24309637" type="shape" x="57814.293180606306" y="19731.323856466846" r="0" s="76.1828518664528" class="poly5">
+      <geom type="poly">
+        <p x="-50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="-28.999941549582445"/>
+        <p x="50.484313717977784" y="28.999941549582445"/>
+        <p x="-50.484313717977784" y="28.999941549582445"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="2" type="text" x="32922.025351476594" y="27987.05660447193" r="0" s="14.619422320324874" class="body">
+      <height>29.16</height>
+      <width>-187.77599999999998</width>
+      <p>
+        <text><![CDATA[3 Problématiques :]]></text>
+      </p>
+    </object>
+    <object id="4" type="image" x="35757.82779606161" y="28351.44570580603" r="0" s="2.4046255414712956">
+      <source w="590" h="699">1811734183<url>1811734183.gif</url></source>
+      <sourceUrl>http://www.mon-club-elec.fr/mes_images/comprendre/technique/dcf77/dcf77_couverture_geographique.gif</sourceUrl>
+    <resource><id>1811734183</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/d/3/40d940006f404f71e17e31b9da050a9b48b61.gif</url></resource></object>
+    <object id="3" type="text" x="34709.797958473326" y="29695.518845380895" r="0" s="14.619422320324874" class="body">
+      <height>116.64</height>
+      <width>437.345291237019</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Plan de vol]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Géolocaliser ce drone dans une pièce]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Etendre la couverture du signal entre le drone et sa station de pilotage]]></text>
+      </p>
+    </object>
+    <object id="5" type="image" x="32267.44071708405" y="31380.041782240332" r="0" s="3.204914510187257">
+      <source w="672" h="371">1811744023<url>1811744023.jpe</url></source>
+      <sourceUrl>http://www.extremetech.com/wp-content/uploads/2012/04/gps-satellite-constellation.jpg</sourceUrl>
+    <resource><id>1811744023</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/8/0/ad25c4ffa45e8a8decbbe269c6aa4e7f6453a.jpe</url></resource></object>
+    <object id="6" type="image" x="35435.46953389845" y="31827.03061968426" r="0" s="2.721820778872266">
+      <source w="648" h="544">1811747845<url>1811747845.jpe</url></source>
+      <sourceUrl>http://www.aufildelarc.com/pict/pdv.jpg</sourceUrl>
+    <resource><id>1811747845</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/e/3/813f6a8768b4b8c2da4545ba6662df15b89b3.jpe</url></resource></object>
+    <object id="8" type="image" x="21871" y="16597.35" r="0" s="4.724969140147243">
+      <source w="684" h="380">1812048409<url>1812048409.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/2/71d51e79ba18a230d15b13078c3075d19ea2b.png</sourceUrl>
+    <resource><id>1812048409</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/2/71d51e79ba18a230d15b13078c3075d19ea2b.png</url></resource></object>
+    <object id="9" type="text" x="25775.94393292512" y="16380.827618510946" r="0" s="5.742774351508041" class="body">
+      <height>204.12</height>
+      <width>-725.4000000000001</width>
+      <p>
+        <text color="4420372"><![CDATA[- Géolocalisation grâce au module GPS]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[- Choisir sur la carte son point de destination]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[- Enregistrer les vols et les vidéos grâce à ses 4Go de mémoire Flash]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[- Revoir ses vols modélisés en 3D sur la carte de l’AR.Drone Academy]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[- Faire revenir automatiquement l’AR.Drone 2.0 à son point de décollage]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[- Améliore la stabilité en vol]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="10" type="text" x="25278.15260291806" y="17473.446694176226" r="0" s="5.742774351508041" class="body">
+      <height>87.48</height>
+      <width>552</width>
+      <p>
+        <text color="16711680"><![CDATA[- Nécessite une application sur tablette ou smartphone]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[- La portée reste limitée (jusqu'à 500m théorique en extérieur)]]></text>
+      </p>
+    </object>
+    <object id="11" type="button" x="37637.1" y="-12496.4" r="0" s="2.7349714013242123" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>966.5306230653148</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12" type="text" x="37636.86681617069" y="-13216.5679917197" r="0" s="4.304903069903065" class="body">
+      <height>29.16</height>
+      <width>-100.82399999999998</width>
+      <p align="center">
+        <text><![CDATA[Index.php]]></text>
+      </p>
+    </object>
+    <object id="14" type="text" x="38588.588618860114" y="-12739.119050862237" r="0" s="2.673006109805628" class="body">
+      <height>58.32</height>
+      <width>232.63599999999997</width>
+      <p>
+        <text color="16711680"><![CDATA[• Affiche la position du drone [1]]]></text>
+      </p>
+    </object>
+    <object id="15" type="text" x="38599.28357884404" y="-12415.871987590956" r="0" s="2.673006109805628" class="body">
+      <height>58.32</height>
+      <width>240.65</width>
+      <p>
+        <text color="4420372"><![CDATA[• Coordonnés [2] (Latitudes longitudes)]]></text>
+      </p>
+    </object>
+    <object id="0_73667537" type="button" x="40719.7" y="-12496.4" r="0" s="2.7064416068379127" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>966.5306230653148</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_73667537" type="text" x="40719.7" y="-13209.271880480295" r="0" s="4.259996567477368" class="body">
+      <height>29.16</height>
+      <width>-163.8</width>
+      <p align="center">
+        <text><![CDATA[Localisation.php]]></text>
+      </p>
+    </object>
+    <object id="0_83838960" type="shape" x="22529.825388503017" y="15352.301759632732" r="61.83988460561627" s="8" class="line3">
+      <geom type="arrow">
+        <sp>-29.999999999999996 12.277169890724736</sp>
+        <ep>30 12.277169890724736</ep>
+        <b>-24.55433978144947</b>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="5_73667537" type="image" x="37296.09803495927" y="-12495.868321742466" r="0" s="1.252415176739247">
+      <source w="1600" h="868">1812084421<mask x="0" y="1" w="1403" h="837"/>
+      <url>1812084421.png</url></source>
+      <sourceUrl>index.png</sourceUrl>
+    <resource><id>1812084421</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/6/4/376e7ffc92287f0fe3892321fd5f7ffde8809.png</url></resource></object>
+    <object id="6_73667537" type="image" x="40372.3721942774" y="-12560.34936700008" r="0" s="1.1029424990988732">
+      <source w="1600" h="868">1812102154<url>1812102154.png</url></source>
+      <sourceUrl>localisation.png</sourceUrl>
+    <resource><id>1812102154</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/b/1/ebd43a1acad4a84f44c9e704a16f0822321e9.png</url></resource></object>
+    <object id="99_24309637" type="text" x="38691.9" y="-12475.8" r="0" s="8.027813662958838" class="body">
+      <height>29.16</height>
+      <width>849.7299273890426</width>
+      <p>
+        <text><![CDATA[Site Web]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="7_73667537" type="text" x="41641.16098929096" y="-12805.24273029626" r="0" s="2.6451227049055057" class="body">
+      <height>87.48</height>
+      <width>247.8439999999999</width>
+      <p>
+        <text color="16711680"><![CDATA[• Enregistrer de nouvelle coordonnées via les entrées [1]]]></text>
+      </p>
+    </object>
+    <object id="8_73667537" type="text" x="41651.80852682559" y="-12420.263692448254" r="0" s="2.6451227049055057" class="body">
+      <height>87.48</height>
+      <width>255.97999999999996</width>
+      <p>
+        <text color="4420372"><![CDATA[• Barre de lien [2] (enregistrement par le lien)]]></text>
+      </p>
+    </object>
+    <object id="2_73667537" type="text" x="40435.744285146095" y="-11859.600285279072" r="0" s="1.642413089583738" class="body">
+      <height>204.12</height>
+      <width>787.35</width>
+      <p>
+        <text><![CDATA[“/localisation.php?]]></text>
+        <text color="16711680"><![CDATA[lat_ent=xx]]></text>
+        <text><![CDATA[&]]></text>
+        <text color="4420372"><![CDATA[lat_dec=xx]]></text>
+        <text><![CDATA[&]]></text>
+        <text color="16744448"><![CDATA[long_ent=xx]]></text>
+        <text><![CDATA[&]]></text>
+        <text color="15728820"><![CDATA[long_dec=xx]]></text>
+        <text><![CDATA[”]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[lat_ent=xx]]></text>
+        <text><![CDATA[ : nombre entier de la coordonné latitude (en entier) ]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[lat_dec=xx]]></text>
+        <text><![CDATA[ : nombre décimal de la coordonné latitude (en entier)]]></text>
+      </p>
+      <p>
+        <text color="16744448"><![CDATA[long_ent=xx]]></text>
+        <text><![CDATA[ : nombre entier de la coordonné la longitude (en entier)]]></text>
+      </p>
+      <p>
+        <text color="15728820"><![CDATA[long_dec=xx]]></text>
+        <text><![CDATA[ : nombre décimal de la coordonné la longitude (en entier)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="4_73667537" type="button" x="38887.9" y="-10878.05" r="0" s="2.589304049066716" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>966.5306230653148</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_73667537" type="text" x="38833.28669784474" y="-11560.068057189876" r="0" s="4.075619563825333" class="body">
+      <height>29.16</height>
+      <width>-137.064</width>
+      <p align="center">
+        <text><![CDATA[Phpmyadmin]]></text>
+      </p>
+    </object>
+    <object id="14_73667537" type="image" x="38602.91782818159" y="-10785.0810098396" r="0" s="1.1279950002843366">
+      <source w="1600" h="868">1812208141<url>1812208141.png</url></source>
+      <sourceUrl>phpmyadmin.png</sourceUrl>
+    <resource><id>1812208141</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/b/3ae00632b1cf18c1084a0036ecd2b0df21171.png</url></resource></object>
+    <object id="3_73667537" type="text" x="38714.6" y="-10947.1" r="0" s="8.027813662958838" class="body">
+      <height>29.16</height>
+      <width>849.7299273890426</width>
+      <p>
+        <text><![CDATA[Base de données]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="15_73667537" type="text" x="39703.81135628302" y="-11066.81080114415" r="0" s="2.028617192491566" class="body">
+      <height>29.16</height>
+      <width>-144.24</width>
+      <p>
+        <text color="4420372"><![CDATA[Colonne ID [1]]]></text>
+      </p>
+    </object>
+    <object id="16_73667537" type="text" x="39756.76840809298" y="-10962.672244721893" r="0" s="2.028617192491566" class="body">
+      <height>29.16</height>
+      <width>-196.41600000000003</width>
+      <p>
+        <text><![CDATA[Colonne lat_ent [2]]]></text>
+      </p>
+    </object>
+    <object id="17_73667537" type="text" x="39760.26625128715" y="-10862.462105492896" r="0" s="2.028617192491566" class="body">
+      <height>29.16</height>
+      <width>-199.872</width>
+      <p>
+        <text color="5974240"><![CDATA[Colonne lat_dec [3]]]></text>
+      </p>
+    </object>
+    <object id="18_73667537" type="text" x="39786.77622075862" y="-10756.913152967558" r="0" s="2.028617192491566" class="body">
+      <height>29.16</height>
+      <width>226.008</width>
+      <p>
+        <text color="16744448"><![CDATA[Colonne long_ent [4]]]></text>
+      </p>
+    </object>
+    <object id="19_73667537" type="text" x="39793.41182759527" y="-10650.383364029653" r="0" s="2.028617192491566" class="body">
+      <height>29.16</height>
+      <width>232.68400000000003</width>
+      <p>
+        <text color="16711680"><![CDATA[Colonne long_dec [5]]]></text>
+      </p>
+    </object>
+    <object id="20_73667537" type="button" x="6374.699999999999" y="-11315.85" r="0" s="2.483938150680347" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.2167352537723</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="21_73667537" type="text" x="6354.5499999999965" y="-11956.38" r="0" s="4" class="body">
+      <height>29.16</height>
+      <width>-99.168</width>
+      <p>
+        <text><![CDATA[Solution 1]]></text>
+      </p>
+    </object>
+    <object id="22_73667537" type="image" x="6354.699999999998" y="-11336.6" r="0" s="2.5622922406568436">
+      <source w="618" h="291">1812277498<url>1812277498.png</url></source>
+      <sourceUrl>Solution1.png</sourceUrl>
+    <resource><id>1812277498</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/c/e/b6627a32117cf10fdea762336593b3c04cc7b.png</url></resource></object>
+    <object id="23_73667537" type="button" x="8723.049999999997" y="-11336.800000000005" r="0" s="2.483938150680347" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.2167352537723</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_73667537" type="text" x="8711.099999999995" y="-11977.330000000002" r="0" s="4" class="body">
+      <height>29.16</height>
+      <width>-103.224</width>
+      <p>
+        <text><![CDATA[Solution 2]]></text>
+      </p>
+    </object>
+    <object id="26_73667537" type="button" x="11175.35" y="-11355.000000000002" r="0" s="2.483938150680347" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.2167352537723</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="27_73667537" type="text" x="11164.399999999996" y="-11995.530000000002" r="0" s="4" class="body">
+      <height>29.16</height>
+      <width>-103.77600000000001</width>
+      <p>
+        <text><![CDATA[Solution 3]]></text>
+      </p>
+    </object>
+    <object id="28_73667537" type="image" x="8754.949999999999" y="-11332.8" r="0" s="2.549914017272028">
+      <source w="621" h="324">1812318544<url>1812318544.png</url></source>
+      <sourceUrl>Solution2.png</sourceUrl>
+    <resource><id>1812318544</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/8/787fb7dd1867ce534c009870a7d7596adc4d4.png</url></resource></object>
+    <object id="29_73667537" type="image" x="11175.349999999997" y="-11355.000000000002" r="0" s="2.574791227196633">
+      <source w="615" h="370">1812319666<url>1812319666.png</url></source>
+      <sourceUrl>Solution3.png</sourceUrl>
+    <resource><id>1812319666</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/5/198c797df05e46862de2749dc2444dbe8f70c.png</url></resource></object>
+    <object id="30_73667537" type="button" x="19678" y="-28575.75" r="0" s="4.371559919176976" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.9180191427382</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="31_73667537" type="button" x="23261.5" y="-28587.4" r="0" s="4.30788759409533" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.902027027027</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="32_73667537" type="text" x="19629.3" y="-29642.85" r="0" s="8" class="body">
+      <height>29.16</height>
+      <width>-168.6</width>
+      <p align="center">
+        <text><![CDATA[Solution retenue]]></text>
+      </p>
+    </object>
+    <object id="33_73667537" type="text" x="19629.1" y="-29326.05" r="0" s="4.96737058447324" class="body">
+      <height>29.16</height>
+      <width>-103.77600000000001</width>
+      <p>
+        <text><![CDATA[Solution 3]]></text>
+      </p>
+    </object>
+    <object id="34_73667537" type="image" x="19689.4" y="-28314.8" r="0" s="4.716685037988856">
+      <source w="692" h="352">1812388177<url>1812388177.png</url></source>
+      <sourceUrl>Solution_retenue.png</sourceUrl>
+    <resource><id>1812388177</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/5/7/9d39a18afa283d755cefebdd93875e8b39f91.png</url></resource></object>
+    <object id="35_73667537" type="text" x="23264.95" y="-29655.95" r="0" s="8" class="body">
+      <height>29.16</height>
+      <width>-147.864</width>
+      <p>
+        <text><![CDATA[Futur du projet]]></text>
+      </p>
+    </object>
+    <object id="36_73667537" type="image" x="23283.45" y="-28375.75" r="0" s="5.064837428189267">
+      <source w="615" h="370">1812406783<url>1812406783.png</url></source>
+      <sourceUrl>futur_projet.png</sourceUrl>
+    <resource><id>1812406783</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/5/7/456f70fd8c56123e2a3461dfa48dd825c901e.png</url></resource></object>
+    <object id="37_73667537" type="text" x="48771.2" y="-32821.85" r="0" s="32" class="body">
+      <height>29.16</height>
+      <width>-147.48000000000002</width>
+      <p>
+        <text><![CDATA[TEMPS PASSÉ]]></text>
+      </p>
+    </object>
+    <object id="10_73667537" type="button" x="33524.75" y="2518.75" r="0" s="3.6376363259745013" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1127.2407732864676</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_73667537" type="image" x="33524.7" y="2518.8" r="0" s="2.9952511186517166">
+      <source w="1320" h="653">1822607140<url>1822607140.png</url></source>
+      <sourceUrl>Diagramme_sequence.png</sourceUrl>
+    <resource><id>1822607140</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/5/6475d740428e402aa2bc2420aa9bea759e183.png</url></resource></object>
+    <object id="25_73667537" type="button" x="48631.6" y="-28817.3" r="0" s="8.440787730600665" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1099.1671144545944</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_73667537" type="image" x="48635.45" y="-28834.75" r="0" s="5.509854085002766">
+      <source w="1672" h="914">1822624066<url>1822624066.png</url></source>
+      <sourceUrl>projet bac.png</sourceUrl>
+    <resource><id>1822624066</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/1/9/ca86534084ec0ead08b3da70c7c2faa136d53.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="818.5154307857" fadescale="0.002687792944707471">
+      <object id="background1644285938" type="image" x="553638.8665752019" y="590759.4830736051" r="0" s="1063.3698422892676">
+        <source w="4000" h="2500">1644285938<url>1644285938.png</url></source>
+        <sourceUrl>process.png</sourceUrl>
+      <resource><id>1644285938</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/8/0/fa30726c6f920d4f72324efc03e19180a1119.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="15_24309637"/>
+    </s>
+    <s>
+      <eagle o="85_24309637"/>
+    </s>
+    <s>
+      <eagle o="84_24309637"/>
+    </s>
+    <s>
+      <eagle o="94_24309637"/>
+    </s>
+    <s>
+      <eagle o="10_73667537"/>
+    </s>
+    <s>
+      <eagle o="97_24309637"/>
+    </s>
+    <s>
+      <eagle o="11"/>
+    </s>
+    <s>
+      <eagle o="0_73667537"/>
+    </s>
+    <s>
+      <eagle o="2_73667537"/>
+    </s>
+    <s>
+      <eagle o="4_73667537"/>
+    </s>
+    <s>
+      <eagle o="100_24309637"/>
+    </s>
+    <s>
+      <eagle o="20_73667537"/>
+    </s>
+    <s>
+      <eagle o="23_73667537"/>
+    </s>
+    <s>
+      <eagle o="26_73667537"/>
+    </s>
+    <s>
+      <eagle o="103_24309637"/>
+    </s>
+    <s>
+      <eagle o="30_73667537"/>
+    </s>
+    <s>
+      <eagle o="31_73667537"/>
+    </s>
+    <s>
+      <eagle o="80_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_73667537"/>
+    </s>
+    <s>
+      <eagle o="15_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+.line1
+{
+	color: #191919;
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.line2
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line3
+{
+	color: #2b53b2;
+	gradEndColor: #2b53b2;
+	gradStartColor: #2b53b2;
+}
+
+.line4
+{
+	color: #595959;
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.line5
+{
+	color: #737373;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.poly1
+{
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.poly2
+{
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly3
+{
+	gradEndColor: #2b53b2;
+	gradStartColor: #2b53b2;
+}
+
+.poly4
+{
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.poly5
+{
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+Background
+{
+	gradEnd: #aab;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #9e9ea5;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #737373;
+	gradStartAlhpha: 1;
+	gradStartColor: #737373;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #2b53b2;
+	gradStartAlpha: 1;
+	gradStartColor: #2b53b2;
+	padding: 1.03;
+	radius: 10;
+	thickness: 18;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #2b53b2;
+	gradStartAlpha: 1;
+	gradStartColor: #2b53b2;
+	padding: 1.03;
+	thickness: 15;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #2b53b2;
+	borderThickness: 20;
+	gradEndAlpha: 1;
+	gradEndColor: #8fa7d9;
+	gradStartAlpha: 1;
+	gradStartColor: #8fa7d9;
+	padding: 1.03;
+	radius: 35;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #2b53b2;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #2b53b2;
+	background-padding: 5;
+}
+
+ZLine
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #edff3d;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 30;
+}
+
+]]></style>
+  <hash>-14816282</hash>
+<sync><oid>dijebo4hwwzg</oid><title>geolocalisation-du-drone</title><hash>-14816282</hash></sync><config>d/p5DyKZmXP6Alou2TfQrKjjpYzpppd2QkNsVc6kuPt5fXTFjto2GmIRWe7508cRpcoAJ60DRKtVOvUHoBRPnwTYb403x6YeZu1nJWP7XdP9A0ZEcZicledgFyPnvMeFShgp1k+y9mSeKicmlwhrgZ0Pu/EDUedPa2Vtec5mRNHBgVHcFwfih1pIobq+uBTDwEB8AOd/WyXOG+rxJwrgAIxL7dPHcS8bN01vyeMz1tv+2dbARkj+6+uZSMGTN7fDxGrYy9FdN/BTJr/SsRD6Yt+4qFwMyxgu8g2ta1F6djhvjepJinURcFI2QvxMLmWUQg16IsoWjiUT5OejZ5XPJg==</config></zuiprezi>

@@ -1,0 +1,24 @@
+html {
+		height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0px;
+	padding: 0px
+}
+
+#map_canvas {
+	height: 100%;
+	width:75%;
+}
+
+#coordonne {
+	width: 20%;
+	left: 76%;
+	position: absolute;
+	top: 1em;
+	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+}
+
